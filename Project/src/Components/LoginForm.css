@@ -1,0 +1,75 @@
+.card,
+.signUp {
+  background-color: rgb(47, 105, 107) !important;
+  height: 300px;
+  width: 500px;
+}
+
+.signUp {
+  height: auto;
+  width: 540px;
+}
+
+.head-text {
+  text-align: center;
+  font-size: 2rem;
+  color: aliceblue;
+  margin-bottom: 20px;
+  color: rgb(27, 27, 27);
+}
+
+#email,
+#password,
+#fname,
+#lname {
+  border: none;
+  outline: none;
+  border-radius: 10px;
+  padding: 10px;
+  color: brown;
+  font-size: large;
+  font-weight: 700;
+  margin-right: 20px;
+}
+
+.email,
+.pass,
+.fname,
+.lname {
+  color: whitesmoke;
+  font-size: 20px;
+  font-weight: 600;
+  margin-right: 10px;
+}
+
+.cp {
+  font-size: 20px;
+  margin-top: 5px;
+}
+
+.btn {
+  font-weight: 500;
+}
+
+.buttn {
+  margin-top: 20px;
+  font-size: 20px;
+  font-weight: 550;
+  border: none;
+  outline: none;
+  color: #1677ff;
+  background-color: white;
+  padding: 5px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.butn {
+    margin-left: 150px;
+    font-size: 20px;
+    padding: 5px;
+    background-color: #1677ff;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
